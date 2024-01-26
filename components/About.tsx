@@ -16,13 +16,13 @@ function About() {
           </p>
           <p className="lg:mb-12 md:mb-8 mb-4 lg:text-xl md:text-lg text-base font-light">
             My past internships have involved Full Stack roles, so I have experience working in 
-            both server-side code bases as well as client side applications. I am also proficient in RESTful API's, the
+            both server-side code bases as well as client side applications. I am also proficient in RESTful API&apos;s, the
             MVC design pattern, and modern UI libraries like React. I have also dabbled in Data Science, contributing
             to research on name-gender classification of patent owners. 
           </p>
           <p className="lg:mb-12 md:mb-8 mb-4 lg:text-xl md:text-lg text-base font-light">
-            When I'm not programming, you can find me learning new languages (the human spoken type), 
-            exploring the city's food scene, or snuggling in with a good post-apocalyptic fiction. 
+            When I&apos;m not programming, you can find me learning new languages (the human spoken type), 
+            exploring the city&apos;s food scene, or snuggling in with a good post-apocalyptic fiction. 
           </p>
           {/* <p className="lg:mb-12 md:mb-8 mb-4 lg:text-xl md:text-lg text-base font-light">
             Feel free to take a closer look at some of my projects below, including this online portfolio. 
