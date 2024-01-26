@@ -62,11 +62,9 @@ function Modal(props: ModalProps) {
           </p>
         </div>
       </div>
-      <div className="mt-4 flex flex-row">
-        
-
+      <div className="mt-4 flex justify-between">
         {props.gitLink !== "" ? (
-          <div className="text-ghPurple mr-56">
+          <div className="text-ghPurple">
           <Link href={props.gitLink} target="__blank" className="flex">
             <p> Github Repository </p>
             <FiGithub className="text-2xl mr-2" />
@@ -77,7 +75,7 @@ function Modal(props: ModalProps) {
         )}
 
         {props.projectLink !== "" && props.title !== "Gender Classification" ? (
-          <div className="text-blue ml-20">
+          <div className="text-blue">
             <Link href={props.projectLink} target="__blank" className="flex">
               <p> Click to Try </p>
               <AiOutlineLaptop className="text-2xl mr-2" />

@@ -30,7 +30,7 @@ export const completedProjects: Project[] = [
     desc: "Welcome to my personal portfolio website :) I decided to use Next.js because not only does it still reatain all the benefits of React, but it also initializes the first render serverside which results in faster initial load times and better search engine optimization. Both of which are good for a personal portfolio! Technologies used include React, Next.js, Tailwind CSS. It is deployed using Vercel. ",
     technologiesUsed: ["React", "Next.js", "Tailwind"],
     image: "/projectImgs/website.png",
-    projectLink: "https://cinlu-github-io.vercel.app/",
+    projectLink: "https://cinlu-portfolio.vercel.app/",
     gitLink: "https://github.com/cinlu/cinlu-portfolio",
     alt: "This Website",
     width: 250,
