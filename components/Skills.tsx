@@ -114,6 +114,12 @@ function Skills() {
           <div className="p-2 bg-intermediateBg border-2 border-intermediateBorder rounded-xl m-1 flex items-center h-8">
             <p className="text-sm font-semibold">Google Cloud Platform</p>
           </div>
+          <div className="p-2 bg-intermediateBg border-2 border-intermediateBorder rounded-xl m-1 flex items-center h-8">
+            <p className="text-sm font-semibold">JSON Web Tokens</p>
+          </div>
+          <div className="p-2 bg-intermediateBg border-2 border-intermediateBorder rounded-xl m-1 flex items-center h-8">
+            <p className="text-sm font-semibold">OAuth 2.0</p>
+          </div>
         </div>
       </div>
     </div>

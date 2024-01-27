@@ -25,6 +25,6 @@ export const experiences: Experience[] = [
     image: "/PublicisSapient.png",
     width: 150,
     height: 150,
-    description: "Collaborated with 4 other interns to create a full stack MVP of an ecommerce web application using Java Spring Boot, React, MySQL, and deployed to Google Cloud Platform. Developed a backend service for user authentication and authorization, using RESTful API's and in the MVC design pattern. Implemented the frontend user authorization component, creating the user interface for user login, user sign up, and user profile. Used React Router to control user authorization depending on different levels of user permissions."
+    description: "Collaborated with 4 other interns to create a full stack MVP of an ecommerce web application using Java Spring Boot, React, MySQL, and deployed to Google Cloud Platform. Developed a backend service for user authentication and authorization, using RESTful API's and in the MVC design pattern. Implemented the frontend user authorization component, creating the user interface for user login, user sign up, and user profile. Used OAuth 2.0 to manage user authorization and React Router to restrict user access to pages depending on different levels of user permissions."
   }
 ];
